@@ -14,3 +14,7 @@ topic branch commit
   - {You may choose an appropriate IDE (Atom/ Visual Studio Code) to work on the same}
 + Collaborate and contribute to the development of the software code. You may choose to work on a dummy project (with atleast 5 files) or assignment project of any other course in which you may be currently enrolled.
 
+
+## Sort(Chinmaya - 2020mt93611)
+    // Insertion Sort introduced
+    Insertion sort is a sorting algorithm that builds the final sorted array one item at a time. It is much less efficient on large lists than more advanced algorithms such as quicksort, heapsort, or merge sort

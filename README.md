@@ -13,3 +13,4 @@ topic branch commit
 + Collaborate and contribute towards the development of GitHub page for your project.
   - {You may choose an appropriate IDE (Atom/ Visual Studio Code) to work on the same}
 + Collaborate and contribute to the development of the software code. You may choose to work on a dummy project (with atleast 5 files) or assignment project of any other course in which you may be currently enrolled.
+

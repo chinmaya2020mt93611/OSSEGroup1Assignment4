@@ -4,7 +4,7 @@ Open Source Assignment #4
 Chinmaya test commit
 topic branch commit
 
-## Assignment taks in markdown language: (Chinmaya-2020mt93611)
+## Assignment tasks in markdown language: (Chinmaya-2020mt93611)
 
 + One of the collaborator is required to create a new software project repository on GitHub and others need to fork the same in order to contribute to it.
 + All collaborators should create different topic branches in order to make their changes.

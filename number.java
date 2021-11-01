@@ -2,7 +2,7 @@ public class SumOfNumbers1
 {  
 public static void main(String args[])   
 {  
-int n1 = 225, n2 = 115, n3=125,n4=100 sum;  
+int n1 = 225, n2 = 115, n3=125,n4=100, sum;  
 
  
 
